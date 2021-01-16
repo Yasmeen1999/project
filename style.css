@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+}
+.heading{
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   margin: 60px auto;
+}
+.section-one{
+   
+width: 100%;
+display: flex;
+flex-shrink: 1;
+border-top: 3px solid black;
+border-bottom: 3px solid black;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box-one{
+    width: 25%;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+ 
+}
+h2{
+    font-size: 30px;
+    margin: 30px;
+    font-family: italic;
+    font-family: "Futura";
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;   
+}
+p{
+    font-size: 18px;
+    margin: 10px;
+    font-family: "Futura";
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;    
+}
+
+.box-two{
+    width:50%;
+    border-right: 1px solid black;
+}
+.image{
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;    
+}
+.box-three{
+    width: 25%;
+    border-right: 1px solid black;
+}
+.section-two{
+    width: 100%;
+    display: flex;
+    flex-shrink: 1;
+   
+    border-bottom: 3px solid black;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+.box-2{
+    width:75%;
+    font-family: "Futura";
+    color: #666;
+   font-size: 30px;
+   text-align:left;
+   border-right: 1px solid black;
+  
+}
+.one{
+ background-color: #ffeaa7;
+ height: 20%;
+ padding:20px;
+}
+.two{
+    background-color: #81ecec;
+    height: 20%; 
+    padding:20px;
+}
+.three{
+    background-color: #55efc4;
+    height: 20%;
+    padding:20px;
+}
+.four{
+    background-color: #74b9ff;
+    height: 20%;
+    padding:20px;
+}
+.five{
+        background-color: #a29bfe;
+        height: 20%;
+        padding:20px;
+}
